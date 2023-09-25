@@ -10,11 +10,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [AEM - Groovy script to add rep:policy based on Query](https://blank-slate.hashnode.dev/aem-groovy-script-to-add-reppolicy-based-on-query)
  - 🚀 [Unlimited Free Email Address using Cloudflare and your Free Custom Domain](https://blank-slate.hashnode.dev/unlimited-free-email-address-using-cloudflare-and-your-free-custom-domain)
  - 🚀 [Fetch Unread Emails to Slack using Slash Commands Bot](https://blank-slate.hashnode.dev/fetch-unread-emails-to-slack-using-slash-commands-bot)
- - 🚀 [Elastic Search Cheatsheet](https://blank-slate.hashnode.dev/elastic-search-cheatsheet)
- - 💯 [Twitter Bot which tweets Mars Photos](https://blank-slate.hashnode.dev/twitter-bot-which-tweets-mars-photos)
- - 💫 [Handy Commands For Developers](https://blank-slate.hashnode.dev/handy-commands-for-developers)<!-- BLOGPOSTS:END -->
+ - 💯 [Elastic Search Cheatsheet](https://blank-slate.hashnode.dev/elastic-search-cheatsheet)
+ - 💫 [Twitter Bot which tweets Mars Photos](https://blank-slate.hashnode.dev/twitter-bot-which-tweets-mars-photos)<!-- BLOGPOSTS:END -->
 
 ### Connect with me:
 
