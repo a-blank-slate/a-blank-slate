@@ -10,12 +10,12 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Boosting AEM Website Performance with Smart Imaging](https://blog.thecolorfulslate.com/boosting-aem-website-performance-with-smart-imaging)
  - 🚀 [Unlocking AEM Cloud  Power: 
 Step-by-Step Guide to Creating System or Service User&lpar; AEM CaaS&rpar;](https://blog.thecolorfulslate.com/aem-cloud-system-service-user-guide)
  - 🚀 [AEM Cloud Service Log Tailing: Troubleshooting and Monitoring Tips](https://blog.thecolorfulslate.com/aem-cloud-service-log-tailing-troubleshooting-and-monitoring-tips)
- - 🚀 [AEM - Groovy script to add rep:policy based on Query](https://blog.thecolorfulslate.com/aem-groovy-script-to-add-reppolicy-based-on-query)
- - 💯 [Unlimited Free Email Address using Cloudflare and your Free Custom Domain](https://blog.thecolorfulslate.com/unlimited-free-email-address-using-cloudflare-and-your-free-custom-domain)
- - 💫 [Fetch Unread Emails to Slack using Slash Commands Bot](https://blog.thecolorfulslate.com/fetch-unread-emails-to-slack-using-slash-commands-bot)<!-- BLOGPOSTS:END -->
+ - 💯 [AEM - Groovy script to add rep:policy based on Query](https://blog.thecolorfulslate.com/aem-groovy-script-to-add-reppolicy-based-on-query)
+ - 💫 [Unlimited Free Email Address using Cloudflare and your Free Custom Domain](https://blog.thecolorfulslate.com/unlimited-free-email-address-using-cloudflare-and-your-free-custom-domain)<!-- BLOGPOSTS:END -->
 
 ### Connect with me:
 
